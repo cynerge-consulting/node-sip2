@@ -1,7 +1,7 @@
 # SIP2 communication for Node.js
 
 ## Updates Made
-Originally forked from frankdsm/node-sip2, found out key values were missing for residency status like PC, PE, PR, PS. Instead added one line of code that returned the original response to pull out that key values in code that consumes it.
+Originally forked from frankdsm/node-sip2, found out key values were missing for residency status like PC, PE, PR, PS. Instead added one line of code that returned the original response to pull out those key values in code that consumes it.
 
 ## Installation
 ```bash
